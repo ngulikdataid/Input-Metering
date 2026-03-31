@@ -1,0 +1,4 @@
+*.csv
+*.sql
+__pycache__/
+*.pyc
